@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Intenship
+# Internship
 It contains all my Internship Project related documents of Sparks Foundation on Basic Banking Syatem.
 =======
 # Banking-System-webApp
